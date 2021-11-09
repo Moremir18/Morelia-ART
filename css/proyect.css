@@ -44,7 +44,7 @@ nav ul li a{
   text-transform: uppercase;
 }
 
-nav ul li a: hover{
+nav ul li a:hover{
 background-color: #CDD510;
 transition: all 1s;
 }
